@@ -3,7 +3,7 @@
 ; Non-commercial use only.
 
 #define MyAppName "CilbTool"
-#define MyAppVersion "1.0"
+#define MyAppVersion "1.1"
 #define MyAppPublisher "Old Orange, Inc."
 #define MyAppURL "https://www.github.com/QSK2024"
 #define MyAppExeName "CLibTool.exe"
@@ -41,7 +41,7 @@ InfoAfterFile=E:\C++PROJECT\clibsee\Readme.txt
 ; Remove the following line to run in administrative install mode (install for all users).
 PrivilegesRequired=lowest
 OutputDir=E:\C++PROJECT\clibsee
-OutputBaseFilename=CLib-Setup-v1.0
+OutputBaseFilename=CLib-Setup-v1.1
 SetupIconFile=C:\Users\qsk20\Downloads\ESP32物联网小项目.ico
 SolidCompression=yes
 WizardStyle=modern dynamic
